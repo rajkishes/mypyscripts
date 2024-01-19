@@ -1,0 +1,16 @@
+GRO-220-2-2382-SWS-1.pfizer.com
+GRO-220-4-4382-SWS-1.pfizer.com
+GRO-220-3-3382-SWS-1.pfizer.com
+GRO-220-3-3482-SWS-1.pfizer.com
+GRO-220-2-2482-SWS-1.pfizer.com
+GRO-220-4-4482-SWS-1.pfizer.com
+GRO-220-4-4132-SWS-1.pfizer.com
+GRO-220-2-2132-SWS-1.pfizer.com
+GRO-220-3-3132-SWS-1.pfizer.com
+GRO-220-0-0312-SWS-1.pfizer.com
+GRO-220-1-1421-SWS-1.pfizer.com
+GRO-220-4-4172-SWS-1.pfizer.com
+GRO-220-2-2172-SWS-1.pfizer.com
+GRO-220-3-3172-SWS-1.pfizer.com
+GRO-220-1-1181-SWS-1.pfizer.com
+10.130.224.10
